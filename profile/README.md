@@ -4,4 +4,4 @@ Edenmind is a open-source foundation that is dedicated to developing software wi
 
 Some of the apps that we have developed:
 
-- https://openarabic.io - Learn Fusha Every Day
+- https://openarabic.io - Bilingual Islamic Texts
