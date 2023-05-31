@@ -1,16 +1,17 @@
-## as-salāmu ʿalaykum 👋
+## Welcome to EdenMind
 
-🌟 Open-source foundation dedicated to developing software with a focus on Islam.
+We specialize in developing robust backend services, streamlined CI/CD pipelines, seamless deployment of machine learning models, and dynamic app development.
 
-🌟 Access Islamic resources and tools that make it easier to practice and spread the teachings of Islam.
+Our open-source repository lies at the heart of our technical operations, built on an array of modern technologies:
 
-🌟 Utilizes the latest technology such as OpenAI, NLP, Kubernetes, and Machine Learning.
+- **React Native**: Our applications are crafted with React Native, enabling efficient, cross-platform mobile development.
 
-Edenmind is a open-source foundation that is dedicated to developing software with a focus on Islam. Our mission is to create software solutions that are inspired by the teachings of the Quran and Sunnah. We believe that technology can be used to enhance and strengthen the bond between a Muslim and their faith. We strive to provide an easier way to access Islamic resources and tools that make it easier to practice and spread the teachings of Islam.
+- **Kubernetes**: This orchestrates our containerized applications, ensuring scalability and reliable performance.
 
-Some of the apps that we are developing:
+- **Grafana and Prometheus**: These tools provide us with detailed metrics and visual data analytics, facilitating effective system monitoring.
 
-- https://openarabic.io - Bilingual Islamic Texts
-- https://qamar360.com - Personal Development for Muslims [WIP]
+- **Terraform**: As our Infrastructure as Code (IaC) tool, it ensures efficient infrastructure management across platforms.
 
-**Follow or give us a ⭐ on GitHub and help us reach more people - *BarakAllahu feek*.**
+- **GitOps and Flux**: These enhance our workflow, with GitOps integrating Git at the heart of our delivery pipeline and Flux automating system updates to match configurations in Git.
+
+Feel free to explore our open-source repository to see how EdenMind uses these technologies to deliver innovative solutions.
